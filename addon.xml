@@ -1,0 +1,15 @@
+
+<?xml version="2.0" encoding="UTF-8" standalone="yes"?>
+<addon id="report2.0" name="report2.0" version="2.1.0" provider-name="manusev">
+	<extension point="xbmc.addon.repository" name="report2.0">
+		<info compressed="false">https://raw.githubusercontent.com/manusev/report2.0/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/manusev/report2.0/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/manusev/report2.0/master</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>report2.0</summary>
+   		<description lang="en">Instala los Addons de Kodi manusev.</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
